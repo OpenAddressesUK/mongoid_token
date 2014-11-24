@@ -224,3 +224,8 @@ In particular: [olliem](https://github.com/olliem),
 [stephan778](https://github.com/stephan778),
 [eagleas](https://github.com/eagleas), and
 [jamesotron](https://github.com/jamesotron).
+
+##Licence
+This repository was forked from [thetron/mongoid_token](https://github.com/thetron/mongoid_token) where no licence is specified. 
+
+![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons License") This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
