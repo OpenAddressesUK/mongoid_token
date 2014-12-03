@@ -226,4 +226,4 @@ In particular: [olliem](https://github.com/olliem),
 [jamesotron](https://github.com/jamesotron).
 
 ##Licence
-This repository was forked from [thetron/mongoid_token](https://github.com/thetron/mongoid_token) where no licence is specified. 
+This repository was forked from [thetron/mongoid_token](https://github.com/thetron/mongoid_token). The original and this source code are open source under the MIT licence. See the [LICENSE.md](LICENSE.md) file for full details. 
